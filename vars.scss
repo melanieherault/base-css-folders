@@ -1,0 +1,57 @@
+/* path */
+$assetSvg: '~@/assets/images/';
+$assetFonts: '~@/assets/fonts/';
+
+// Zindex
+$overlay-zindex: 3;
+$popup-zindex: 20;
+$popup-content-zindex: 4;
+$input-content-zindex: 2;
+$select-container-zindex: 11;
+$select-overlay-zindex: 10;
+$select-input-zindex: 2;
+$select-list-zindex: 1;
+$topbar-zindex: 3;
+
+// Size
+$max-width-container: 1600px;
+$form-min-width: 350px;
+$form-max-width: 550px;
+$form-padding-horizontal: 50px;
+$form-padding-top-mobile: 30px;
+$form-padding-left-mobile: 20px;
+$footer-mobile-item: 40px;
+$topbar-mobile-height: 50px;
+$topbar-height: 80px;
+$topbar-height-simulator: 60px;
+$progress-bar-height: 6px;
+$loginInfosHeight: 50px;
+$input-border-radius: 0;
+$input-height: 55px;
+$input-margin-bottom: 15px;
+$input-padding-top: 20px;
+$input-padding-left: 15px;
+$input-radio-list-size: 45px;
+$checkbox-width: 65px;
+$section-padding-horizontal-mobile: 20px;
+$step-size: 95px;
+$bullet-size: 24px;
+
+// Sidebar
+$sidebar-left-min-width: 370px;
+$sidebar-left-max-width: 500px;
+$sidebar-left-padding: 40px;
+$sidebar-left-item-height: 40px;
+$sidebar-left-item-active: 20px;
+
+$sidebar-right-min-width: 600px;
+$sidebar-right-close-size: 70px;
+
+/* path */
+$assetSvg: '~@/assets/images/';
+$assetFonts: '~@/assets/fonts/';
+
+$header-height: 60px;
+$header-height-mobile: 50px;
+$padding-mobile: 15px;
+$max-width-tablet: 600px;

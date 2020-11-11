@@ -1,0 +1,57 @@
+// --- UNIVERSEL --- //
+$color-bg-content: #f2fafb;
+$color-bg-container: #f5f5f5;
+$color-black: #000000;
+$color-white: #ffffff;
+$color-dark-light: #232323;
+$color-grey-black: #333333;
+$color-grey-dark: #444444;
+$color-grey-medium: #888888;
+$color-grey-regular: #cccccc;
+$color-grey-light: #eeeeee;
+$color-form-text: #4a4a4a; // todo check if this color is really universal
+$bg-color-input-active: #e8f6f7; // todo check if this color is really universal
+$color-grey-button: #797979; // todo check if this color is really universal
+$color-label-card-img-disabled: #e6e6e6;
+$color-label-card-img: #9b9b9b;
+$color-error: #e1523d;
+$color-headband-mobile: #4b4fb3;
+
+// Mainly use for Sofinco components
+$color-main-dark: #004b44;
+$color-main-light: #32d5dd;
+
+// Tooltip
+$color-tooltip-text: #0085ca;
+$color-tooltip-bg: #ebf8fd;
+$color-tooltip-text-error: #ff3935;
+$color-tooltip-bg-error: #fff0ef;
+$color-tooltip-text-alert: #ffa300;
+$color-tooltip-bg-alert: #ffedcc;
+$color-bg-message-success: #ebfaf4;
+$color-text-message-success: #02be70;
+
+// Contact module
+$color-contact-module: #00a3e0;
+
+// --- DYNAMIC (API CONF) --- //
+$color-partner-1: var(--color-partner-1);
+$color-partner-2: var(--color-partner-2);
+$color-partner-3: var(--color-partner-3);
+$color-partner-4: var(--color-partner-4);
+$color-partner-5: var(--color-partner-5);
+
+// --- DYNAMIC (API CONF) Theme --- //
+$color-cta-link: var(--color-cta-link);
+$color-cta-text: var(--color-cta-text);
+$color-title: var(--color-title);
+$color-text: var(--color-text);
+$color-text-button: var(--color-text-button);
+$color-link: var(--color-link);
+$color-cta-text: var(--color-cta-text);
+$color-summary-details: var(--color-summary-details);
+$color-section-simu-bg: var(--color-section-simu-bg);
+$color-bg-info-connection: var(--color-bg-info-connection);
+$color-bg-simu-mobile: var(--color-bg-simu-mobile);
+$color-summary-btn-hover: var(--color-summary-btn-hover);
+$color-bg-autofill: var(--color-bg-autofill);
